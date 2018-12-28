@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+* It is a open source framework that let people to contribute and help in welcoming the community and programmer.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* Welcoming
+* create readme.md file
+* help others to find the page
 
 ## Getting started
 
